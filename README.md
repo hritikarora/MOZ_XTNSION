@@ -1,0 +1,2 @@
+# MOZ_XTNSION
+ADD-ON created on MOZILLA FIREFOX.
