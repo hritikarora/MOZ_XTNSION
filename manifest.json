@@ -1,0 +1,25 @@
+{
+
+  "manifest_version": 2,
+  "name": "Beastify",
+  "version": "1.0",
+
+  "description": "perform to side bar action and you write something else so output generate to top of the browser.See https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Examples#beastify",
+  
+  "icons": {
+    "48": "index.jpg"
+  },
+
+  "permissions": [
+    "activeTab",
+	"alarms"
+  ],
+
+  "browser_action": {
+    "default_icon": "index.jpg",
+    "default_title": "Beastify",
+    "default_popup": "sidebar.html"
+  }
+  
+
+} 
